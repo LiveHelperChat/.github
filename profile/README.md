@@ -10,6 +10,10 @@
 
 ## Integrations
 
+[![Flutter](https://commons.wikimedia.org/wiki/File:Google-flutter-logo.png)](https://github.com/LiveHelperChat/lhc_messenger)
+
+
+
  * [Mobile app](https://github.com/LiveHelperChat/lhc_messenger) flutter
  * [Agora - Voice & Video & ScreenShare](https://doc.livehelperchat.com/docs/voice-video-screenshare) powered by [agora](https://www.agora.io/en/), paid
  * [Jitsi - Voice & Video & ScreenShare](https://doc.livehelperchat.com/docs/integrating/jitsi) powered by [jitsi](https://jitsi.org/), Free out of the box integration
