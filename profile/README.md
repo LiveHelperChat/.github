@@ -6,12 +6,10 @@
 * Documentation - https://doc.livehelperchat.com
 * Forum/Discussions - https://github.com/LiveHelperChat/livehelperchat/discussions
 * Chat (Discord) https://discord.gg/YsZXQVh
-* [Laravel version of Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat_laravel)
 
 ## Integrations
 
 [![Flutter](https://commons.wikimedia.org/wiki/File:Google-flutter-logo.png)](https://github.com/LiveHelperChat/lhc_messenger)
-
 
 
  * [Mobile app](https://github.com/LiveHelperChat/lhc_messenger) flutter
