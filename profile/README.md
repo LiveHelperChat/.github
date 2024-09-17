@@ -6,7 +6,10 @@
 * [Integrations list](https://github.com/LiveHelperChat/livehelperchat?tab=readme-ov-file#integrations)
 * [Features](https://github.com/LiveHelperChat/livehelperchat?tab=readme-ov-file#features)
 
-###  Have a question?
+### Have a question?
 
 * Chat (Discord) https://discord.gg/YsZXQVh
 * Forum/Discussions - https://github.com/LiveHelperChat/livehelperchat/discussions
+* For commercial support visit https://livehelperchat.com/support-13c.html
+
+
